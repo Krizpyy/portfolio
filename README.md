@@ -19,3 +19,9 @@ You will be creating a portfolio of your work in class so far.
 * Select your portfolio project
 * Type in a brief description of your change, and click the commit button
 * Click Publish
+
+6. After your assignment has been published to GitHub, go to your github page for that repository. It will be at https://github.com/username/portfolio where username is your username on GitHub.
+
+Click on the settings button in the right sidebar. Change your repository name to username.github.io, where username is your GitHub username. Click the "rename" button to save your changes. 
+
+You should now be able to view your webpage at the url username.github.io

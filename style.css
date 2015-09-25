@@ -1,0 +1,49 @@
+/* This is your CSS file.
+
+
+Remember, you can define color values is several different ways:
+
+- By words like blue, red, black.
+- By RGB values like rgb(100,200,0)
+- By Hex value like #FFFFFF or #990000
+
+  */
+
+body {
+
+/*  ==========================================
+	Try changing the background color of the entire webpage
+	=========================================== */
+
+	background-color: #FFFFFF;
+
+/*  ==========================================
+	It's also helpful to add some padding to your
+	page so the content isn't so close to the edges
+	=========================================== */
+	padding:20px;
+
+}
+
+p{
+
+/*  ==========================================
+	   Try changing the color or size of paragraph text:
+	  =========================================== */
+
+	color:black;
+	font-size:16px;
+
+}
+
+a{
+
+/*  ==========================================
+	Try changing the color of links:
+=========================================== */
+
+
+	color:rgb(100,200,0);
+
+
+}

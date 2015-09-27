@@ -15,7 +15,7 @@ body {
 	Try changing the background color of the entire webpage
 	=========================================== */
 
-	background-color: #FFFFFF;
+	background-color: rgb(255, 180, 200);
 
 /*  ==========================================
 	It's also helpful to add some padding to your
@@ -23,6 +23,16 @@ body {
 	=========================================== */
 	padding:20px;
 
+	text-align:center;
+
+
+}
+
+h1{
+	color:white;
+	font-family: Pacifico;
+	font-size: 60;
+	letter-spacing:6;
 }
 
 p{
@@ -31,9 +41,17 @@ p{
 	   Try changing the color or size of paragraph text:
 	  =========================================== */
 
-	color:black;
+	color:white;
 	font-size:16px;
+	font-family: Courier;
+	padding-bottom:20;
+	letter-spacing:3;
 
+}
+
+h2{
+	padding-bottom:30;
+	padding-top:80;
 }
 
 a{
@@ -43,7 +61,33 @@ a{
 =========================================== */
 
 
-	color:rgb(100,200,0);
+	color:white;
+	font-family: Helvetica;
+	font-size: 30;
+	font-family:amatic;
+	letter-spacing:3;
 
 
 }
+iframe{
+	background-color:white;
+
+}
+
+.heart{
+	width:30;
+}
+
+.blair{
+	width:300;
+}
+
+
+
+
+
+
+
+
+
+

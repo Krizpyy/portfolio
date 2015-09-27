@@ -3,7 +3,7 @@
 // ===============
 function setup() {
 
-	//==============================
+  //==============================
   //  START writing your code here
   //==============================
   createCanvas(windowWidth, windowHeight);
@@ -30,7 +30,7 @@ function setup() {
   //center
   ellipse (370, 300, 50, 50);
   
-  point(370, 300)
+  point(370, 300);
 
   line(365, 400, 345, 380);
 
@@ -66,3 +66,4 @@ function setup() {
   fill('white')
   ellipse(580, 190, 5, 5);
   ellipse(620, 190, 5, 5);
+}

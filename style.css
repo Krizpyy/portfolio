@@ -15,15 +15,24 @@ body {
 	Try changing the background color of the entire webpage
 	=========================================== */
 
-	background-color: #FFFFFF;
-
+	background-color: #009cd4;
+	
 /*  ==========================================
 	It's also helpful to add some padding to your
 	page so the content isn't so close to the edges
 	=========================================== */
-	padding:20px;
+	display: inline-block;
+	padding:40px;
+	margin:40px;
+
+	img {
+	width:200px;
+}
+
 
 }
+
+
 
 p{
 
@@ -31,8 +40,9 @@ p{
 	   Try changing the color or size of paragraph text:
 	  =========================================== */
 
-	color:black;
-	font-size:16px;
+
+	color:white;
+	font-size:26px;
 
 }
 
@@ -43,7 +53,7 @@ a{
 =========================================== */
 
 
-	color:rgb(100,200,0);
+	color:rgb(50,20,75);
 
 
 }

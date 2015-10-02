@@ -1,7 +1,11 @@
 // ===============================================================
 //  input.js
 // ---------------------------------------------------------------
-//
+// Draw something different based on what the user types.  
+// - You must use 4 different types of shape
+// - you must use random() in some way
+// - you must accept 3 different types of responses
+// - You can reuse what you drew for the sketch assigmnet if you want
 // ===============================================================
 
 function draw_assignment(userInput){

@@ -17,11 +17,27 @@ body {
 
 	background-color: #1f2538;
 
+
 /*  ==========================================
 	It's also helpful to add some padding to your
 	page so the content isn't so close to the edges
 	=========================================== */
 	padding:20px;
+
+}
+
+a:link {
+
+	color:white;
+	text-decoration: none;
+}
+
+a:visited {
+	color:#808080;
+} 
+
+div{
+	margin-left:350px;
 
 }
 
@@ -45,6 +61,27 @@ h1{ color: #d12240;
 
 a{
 
+}
+
+div.signature {
+
+	width: 20px;
+	height: 30px;
+	color:red;
+
+}
+
+
+iframe{
+
+	background-color:white;
+
+}
+
+img{
+	width: 300px;
+	margin-left:160px;
+}
 /*  ==========================================
 	Try changing the color of links:
 =========================================== */

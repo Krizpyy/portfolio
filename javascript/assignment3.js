@@ -3,7 +3,7 @@ var Yposition = 0;
 var Xposition = 0;
 
   function setup() {
-    createCanvas(windowWidth, windowHeight);
+    createCanvas(700, 500);
   }
     
 
